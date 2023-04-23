@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'SUIT-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_suit@1.0/SUIT-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+
+* {
+    font-family: 'SUIT-Regular';
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+body {
+    background-color: black;
+    color:white;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  
+
+  .tg  {vertical-align: middle; border-collapse:collapse;border-spacing:0; font-family: 'SUIT-Regular';}
+.tg td{vertical-align: middle; border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-family: 'SUIT-Regular';
+  overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{vertical-align: middle; border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px; font-family: 'SUIT-Regular';
+  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-0usf{vertical-align: middle; text-align: center; background-color:#000000;border-color:#ffffff;color:#ffffff;text-align:center;vertical-align:top font-family: 'SUIT-Regular';}
+
+.chuee {
+    font-family: '굴림';
+    color: red;
+    font-size: 1px
+}
